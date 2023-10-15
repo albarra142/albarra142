@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>kelas X.4</title>
+        <style>
+body{
+    background-color: #738784;
+    background-image: url(welcome.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 400px 250px;
+}
+img{
+    align-items: center;
+    width: 120px;
+    height: 120px;
+    border-radius: 15px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 185px;
+    box-shadow: 10px -8px 5px white,-10px 8px 5px rgb(182, 171, 171);
+    writing-mode: horizontal-tb;
+}
+h3{
+    text-align: center;
+    font-size: small;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.kls{
+    text-align: center;
+    font-size: small;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    line-height: 11%;
+}
+.tentang{
+    text-align: left;
+    font-size: medium;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.gurudanmurid{
+    text-align: left;
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-indent: 3%;
+}
+blockquote{
+    text-align: left;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+    text-indent: 10%;
+}
+ul{
+    text-align: left;
+    font-size: small;
+    font-family:Arial, Helvetica, sans-serif;
+}
+    </style>
+    </head>
+    <body>
+    <header>
+        <div class="border" type="box">
+        <img src="X4.jpg">
+    </div>
+        <h3>SELAMAT DATANG</h3>
+    </header>
+    <article>
+        <p class="kls"><b>DI KELAS X.4</b></p>
+        <br>
+        <h3 class="tentang">Sedikit penjelasan Tentang kami:</h3>
+        <p class="gurudanmurid">Wali kelas kami: Tri Amelia.
+            <blockquote>X.4 adalah salah satu kelas 10 yang ada di sekolah SMAN 6 TANGERANG, berisikan 42 anak murid yang terdiri dari 18 Laki-Laki dan 24 Perempuan, dan ada juga struktur kelas yang ada di X.4 yaitu:
+            </blockquote> 
+            <ul>
+                <li>Ketua Kelas</li>
+                <li>Wakil Ketua Kelas</li>
+                <li>Sekretaris 1 & 2</li>
+                <li>Bendahara 1 & 2</li>
+                <li>Seksi Keamanan yang terdiri dari 2 orang murid</li>
+                <li>Seksi Kesehatan yang terdiri dari 2 orang murid</li>
+                <li>Seksi Kebersihan yang terdiri dari 2 orang murid</li>
+            </ul>
+        </p>
+    </article>
+</body>
+</html>
